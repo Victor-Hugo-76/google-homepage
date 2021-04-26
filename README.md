@@ -1,7 +1,8 @@
-Project Google Homepage
+PROJECT GOOGLE HOMEPAGE
 
-For this mini-project, i'll deconstruct an existing web page and rebuild it.
-Te goal is to start thinking about how elements get place on the page and roughly how they get styled and aligned.
+INTRODUCTION
+
+For this mini-project, i'll deconstruct an existing web page and rebuild it.The goal is to start thinking about how elements get place on the page and roughly how they get styled and aligned.
 
 Using the browser's developer tools (right-clicking something on the page and clicking "inspect element" will get i there) will be my best friend. Build the page in a .html text file and open it in your browser to check it out.
 
